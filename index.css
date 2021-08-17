@@ -38,7 +38,7 @@ header {
     position:fixed;
     font-weight:bold;
     background:transparent;
-    color:#000;
+    color:#fff;
     transition:0.4s ease-in-out;
     z-index:2;
 }
@@ -402,7 +402,7 @@ button:focus {
         padding:0px 0px;
     }
     #navigation a {
-        color:black;
+        color:#000;
     }
     #footer {
     width:100%;

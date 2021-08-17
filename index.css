@@ -301,9 +301,12 @@ header table {
 #about a{
     color:rgb(255, 44, 90);
     text-decoration:none;
+}
+
 ::placeholder {
     color:#000;
 }
+    
 button:focus {
     outline:none;
 }

@@ -339,7 +339,7 @@ button:focus {
     }
     #about {
         width:92% !important;
-        height:75vh;
+        height:100vh;
         text-align:center;
         padding:0px 4%;
     }
@@ -402,5 +402,18 @@ button:focus {
     width:100%;
     padding:5vh 4%;
     font-weight:bold;
+    }
+    #about h5 {
+    font-size:70px;
+    word-wrap:break-word;
+    margin-top: 100%;
+}
+
+#about h3 {
+    font-weight: normal;
+    word-wrap:break-word;
+    margin-top: 0em;
+    margin-bottom: 6%;
+    padding-bottom: 20%;
 }
 }
